@@ -4,6 +4,7 @@ Bikin 15 is a cross-gantry, direct drive fdm printer, framed entirely by printed
 
 ```
 ![images/Bikin15_Beta_v27.png](images/Bikin15_Beta_v27.png)
+![Bikin15_Beta_v27.png](./images/Bikin15_Beta_v27.png)
 ```
 
 # Features
