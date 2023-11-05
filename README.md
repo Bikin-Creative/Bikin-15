@@ -37,12 +37,9 @@ These printers/developers are our idols. They set the benchmark for us. We thank
 * Ratrig
 
 ### Gallery
-
-```
-[../images/Screenshot_2023-11-05_210552.jpg](../images/Screenshot_2023-11-05_210552.jpg)
-[../images/Bikin15_Beta.jpg](../images/Bikin15_Beta.jpg)
-[../images/Bikin15_Beta_1.jpg](../images/Bikin15_Beta_1.jpg)
-[../images/Bikin15_Beta_2.jpg](../images/Bikin15_Beta_2.jpg)
-[../images/Bikin15_Beta_3.jpg](../images/Bikin15_Beta_3.jpg)
-[../images/Bikin15_Beta_v27.jpg](../images/Bikin15_Beta_v27.jpg)
-```
+[Screenshot_2023-11-05_210552.jpg](images/Screenshot_2023-11-05_210552.jpg)
+[Bikin15_Beta.jpg](images/Bikin15_Beta.jpg)
+[Bikin15_Beta_1.jpg](images/Bikin15_Beta_1.jpg)
+[Bikin15_Beta_2.jpg](images/Bikin15_Beta_2.jpg)
+[Bikin15_Beta_3.jpg](images/Bikin15_Beta_3.jpg)
+[Bikin15_Beta_v27.jpg](images/Bikin15_Beta_v27.jpg)
