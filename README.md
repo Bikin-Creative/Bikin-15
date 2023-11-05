@@ -2,13 +2,6 @@
 
 Bikin 15 is a cross-gantry, direct drive fdm printer, framed entirely by printed parts. It is capable of replicating itself, and its soon to be designed larger siblings. Kinematics is using a cross-gantry, quad drive cartesian on linear rods. On a base build, with generic unbranded parts, bom is $300ish. With addons, example enclosure, cost should be abt $400. Despite its low cost of entry, its loaded with advance features, mostly only seen in advance printers.
 
-```
-![Screenshot](images/Bikin15_Beta_v27.png)
-![images/Bikin15_Beta_v27.png](images/Bikin15_Beta_v27.png)
-![./images/Bikin15_Beta_v27.png](https://github.com/Bikin-Creative/Bikin-15/blob/main/images/Bikin15_Beta_v27.png)
-!https://github.com/Bikin-Creative/Bikin-15/blob/main/images/Bikin15_Beta_v27.png
-```
-
 ![Screenshot](images/Bikin15_Beta_v27.png)
 
 # Features
